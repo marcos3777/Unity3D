@@ -1,2 +1,2 @@
-# Unity3D
+# Unity
 Projects made in Unity.
